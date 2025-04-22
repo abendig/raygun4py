@@ -24,7 +24,7 @@ setup(
     install_requires=[
         'jsonpickle == 0.9.2',
         'blinker == 1.3.0',
-        'requests == 2.9.1'
+        'requests == 2.32.2'
     ],
     entry_points={
         'console_scripts': [
